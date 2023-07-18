@@ -4,6 +4,15 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JTextField;
 
+/*
+ * Files: MyActionListener.java          
+ * Author: Mohamedamin Mohamed          
+ * Contact mohamedamin204080@gmail.com  
+ * Created 07/18/2023                   
+ * Modified: 07/18/2023              
+ * Description:This class implements the ActionListener interface to handle button actions
+in the calculator application
+ */
 public class MyActionListener implements ActionListener{
 	private JTextField textField;
 	private String currentInput;
