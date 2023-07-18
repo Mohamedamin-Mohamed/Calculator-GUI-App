@@ -8,6 +8,15 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
+/*
+ * Files: CalculatorApp.java          
+ * Author: Mohamedamin Mohamed          
+ * Contact mohamedamin204080@gmail.com  
+ * Created 07/18/2023                   
+ * Modified: 07/18/2023              
+ * Description: This class implements a basic calculator application GUI.
+ */
+
 class CalculatorApp{
 	private JFrame frame;
 	private JPanel panel;
